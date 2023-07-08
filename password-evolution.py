@@ -1,7 +1,7 @@
-import pyotp
-import sqlite3
-import hashlib
-import uuid
+import pyotp    # generar contraseña de un solo uso
+import sqlite3  # database para username/password
+import hashlib  # seguridad con hashes y resumenes de mensajes
+import uuid     # para crear identificadores universales y unicos
 from flask import Flask, request
 app = Flask(__name__)
 
