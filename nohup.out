@@ -1,0 +1,25 @@
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:9500/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Jul/2023 02:19:34] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:19:56] "[31m[1mPOST /signup/v2 HTTP/1.1[0m" 400 -
+127.0.0.1 - - [08/Jul/2023 02:20:25] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:21:53] "[37mGET /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:21:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [08/Jul/2023 02:22:05] "[33mGET /login/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [08/Jul/2023 02:22:14] "[37mGET /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:23:12] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:23:45] "[37mGET /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:27:06] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:28:16] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [08/Jul/2023 02:28:25] "[37mGET / HTTP/1.1[0m" 200 -
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:9500/ (Press CTRL+C to quit)
+127.0.0.1 - - [08/Jul/2023 02:29:00] "[37mGET / HTTP/1.1[0m" 200 -
